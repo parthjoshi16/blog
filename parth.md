@@ -36,7 +36,7 @@ Now that we have looked at how drastically technology shifts affect design trend
 ###### **Animations and microinteractions catch attention and create the right mood, so there's no need to add clutter or extra text.**
 
 Animations are a big part of mobile app design trends this year. They not only set a positive tone of the mobile application but also bring it to life. It makes the conversation a two-sided affair and keeps the user immersed in the experience.
-[![Dynamic Animation](Dynamic Animation "Dynamic Animation")](https://www.brightcarbon.com/wp/wp-content/uploads/2017/05/Services-Animation-Dynamic-Animations_Artboard-01.png "Dynamic Animation")
+[Dynamic Animation](https://www.brightcarbon.com/wp/wp-content/uploads/2017/05/Services-Animation-Dynamic-Animations_Artboard-01.png "Dynamic Animation")
 
 ###### **Personalized animation is another trend that creates connection between your product and the user**
 
@@ -56,7 +56,6 @@ VR and AR give us a feeling of connection with the product and help build trust 
 
 These technologies have definitely attracted the attention of the users. So making it part of your app design will definitely help you stand out from the crowd.
 
-##### Minimalism
 
 
 
